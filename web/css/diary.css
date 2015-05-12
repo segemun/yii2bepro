@@ -1,0 +1,17 @@
+#dashboard-weight-block{
+    min-width: 285px;
+}
+#dashboard-weight-block .window-npb{
+    height: 50px;
+}
+#sparkline-weight-block {
+    position: absolute;
+    top: -55px;
+    right: 10px;
+}
+
+.main-logo{
+    margin-left: 32px;
+    font-size: 20px;
+    color: white;
+}
